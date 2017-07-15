@@ -1,1 +1,1 @@
-worker: node videojs.theaterMode.js
+worker: node dist/videojs-theater-mode.cjs.js
