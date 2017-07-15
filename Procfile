@@ -1,1 +1,1 @@
-worker: node dist/videojs.theaterMode.js
+worker: npm install --save videojs-theater-mode
